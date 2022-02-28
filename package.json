@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-heroku",
+  "version": "1.0.0",
+  "description": "testing deployment to heroku",
+  "main": "index.js",
+  "engines": {
+    "node": "17.x"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "test",
+    "deploy",
+    "heroku"
+  ],
+  "author": "Jordan Needham",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
